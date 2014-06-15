@@ -11,9 +11,6 @@ window.onload = function () {
     
             
     //console.log(velocity.getX());
-    //console.log(velocity.getY());
-    //console.log(velocity.getAngle());
-    //console.log(velocity.getLength());
 
     setInterval(draw, 10);
 
